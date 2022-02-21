@@ -7,6 +7,9 @@ A lot of the code uploaded on this git would code I have written for various mod
 there will be an assured update at the end of each semester. 
 Some of the codes are from courses/books etc that I undertook during summer/winter holidays.
 
+Some of the projects that I have worked on/contributed to are 
+1. https://github.com/apnatvar/FSM-MiniALU - This folder contains the FSM and MiniALU (added soon) projects that I worked on for Digital Systems Design
+2. https://github.com/apnatvar/arduino-tinkercad - This folder contains various small codes for Ultrasonic Sensor, DC Motors and more that I wrote to practice while developing an Autonomous Buggy. It also contains code for a mini project Touchless Sanitiser Dispenser. All of these were to be implemented on a Small Autonomous Buggy for an Engineering Design Project but because of Covid-19 I was not able to work with a physical device to see my code work. 
 <!---
 apnatvar/apnatvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
