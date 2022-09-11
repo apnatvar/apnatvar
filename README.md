@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apnatvar. 3rd Year Computer Engineering Student at Trinity College Dublin. Welcome.
 - 👀 I’m interested in ML/AI/Data Science and I hope to build a career in this field. Currenlty looking to Intern in this field.
 - 🌱 I was focussing on ML/Deep Learning during my winter break. Since my next semester has begun, I will be focussing chiefly on the classrom. I will probably be working on smaller python and c codes to keep in touch with these languages. 
-- 📫 Available on LinkedIn at www.linkedin.com/in/apnatva-singh-rawat or email me at arawat@tcd.ie. 
+- 📫 Available on LinkedIn at www.linkedin.com/in/apnatva-singh-rawat or email me at arawat@tcd.ie. https://apnatvar.github.io/apnatvar.github.io/ is still under development but I would appreciate any feedback. 
 
 A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. I will work to update these regularly but 
 there will be an assured update at the end of each semester. 
