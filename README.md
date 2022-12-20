@@ -7,7 +7,7 @@ A lot of the code uploaded on this git would code I have written for various mod
 there will be an assured update at the end of each semester. 
 Some of the codes are from courses/books etc that I undertook during summer/winter holidays.
 
-### *These are the more important projects that you might find interesting*
+### *Some of my favourite projects*
 ##### Cyclistic Data Analysis - https://github.com/apnatvar/analytics/tree/main/Cyclistic
 ##### S&P500 Stock Dashboard - https://github.com/apnatvar/analytics/tree/main/Shiny_Stock
 ##### Morse Code Game - https://github.com/apnatvar/Microprocessor-Raspberry-Pi-Pico/tree/main/Pi%20Pico%20Coding/assign02
