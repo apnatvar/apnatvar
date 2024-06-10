@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @apnatvar. 4th Year Computer Engineering Student at Trinity College Dublin. Welcome.
-- 👀 I’m interested in ML/AI/Data Science.
-- 🌱 I was focussing on ML/Deep Learning during my winter break. Since my next semester has begun, I will be focussing chiefly on the classrom. I will probably be working on smaller python and c codes to keep in touch with these languages. 
+- 👋 Hi, I’m @apnatvar. Recent Computer Engineering Graduate (TCD). Currently working as SDE 1, looking for new opportunities actively. 
+- 👀 I’m interested in Software Development (Cloud-based), DevOps, and CloudOps roles. 
+- 🌱 I was focussing on ML/Deep Learning during my college years apart from basic Computer Engineering. My recent work experience was developing and maintaining a cloud-based application and I worked with several tools like Kubernetes, Kafka, Nats, Helm, Azure, Linux, and so much more.  
 - 📫 Available on LinkedIn at www.linkedin.com/in/apnatva-singh-rawat or email me at arawat@tcd.ie. https://apnatvar.github.io/apnatvar.github.io/ is still under development but I would appreciate any feedback. 
 
-A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. I will work to update these regularly but 
-there will be an assured update at the end of each semester. 
-Some of the codes are from courses/books etc that I undertook during summer/winter holidays.
+A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. Other than that I took some external courses and any code I wrote in the fulfillment of the requirements of the course is presented here. 
 
 ### *Some of my favourite projects*
 ##### Cyclistic Data Analysis - https://github.com/apnatvar/analytics/tree/main/Cyclistic
