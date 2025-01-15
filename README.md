@@ -3,9 +3,12 @@
 - 🌱 I was focussing on ML/Deep Learning during my college years apart from basic Computer Engineering. My recent work experience was developing and maintaining a cloud-based application alogn with some contract work. I have worked with several tools like Kubernetes, Kafka, Nats, Helm, Azure, Linux, and so much more.  
 - 📫 Available on LinkedIn at www.linkedin.com/in/apnatva-singh-rawat or email me at arawat@tcd.ie. https://apnatvar.github.io/apnatvar.github.io/ is still under development but I would appreciate any feedback. 
 
-A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. Other than that I took some external courses and any code I wrote in the fulfillment of the requirements of the course is presented here. 
+My CV is also available on my profile repo, please check it out if you have a job for me!
+
+A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. Other than that I took some external courses, did some competitive practice, some contract work and some were there just because I was bored. Have a look! 
 
 ### *Some of my favourite projects* 
+##### Excel Consolitdation(Contract Work) - https://github.com/apnatvar/deliveredProjects
 ##### Cyclistic Data Analysis - https://github.com/apnatvar/analytics/tree/main/Cyclistic
 ##### S&P500 Stock Dashboard - https://github.com/apnatvar/analytics/tree/main/Shiny_Stock
 ##### Morse Code Game - https://github.com/apnatvar/Microprocessor-Raspberry-Pi-Pico/tree/main/Pi%20Pico%20Coding/assign02
