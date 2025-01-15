@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @apnatvar. Recent Computer Engineering Graduate (TCD). Currently working as SDE 1, looking for new opportunities actively. 
-- 👀 I’m interested in Software Development (Cloud-based), DevOps, and CloudOps roles. 
-- 🌱 I was focussing on ML/Deep Learning during my college years apart from basic Computer Engineering. My recent work experience was developing and maintaining a cloud-based application and I worked with several tools like Kubernetes, Kafka, Nats, Helm, Azure, Linux, and so much more.  
+- 👋 Hi, I’m @apnatvar. Recent Computer Engineering Graduate (TCD).  Looking for new opportunities leveraging Python and SQL actively. 
+- 👀 I’m interested in Software Development, DevOps, and AI/ML roles. 
+- 🌱 I was focussing on ML/Deep Learning during my college years apart from basic Computer Engineering. My recent work experience was developing and maintaining a cloud-based application alogn with some contract work. I have worked with several tools like Kubernetes, Kafka, Nats, Helm, Azure, Linux, and so much more.  
 - 📫 Available on LinkedIn at www.linkedin.com/in/apnatva-singh-rawat or email me at arawat@tcd.ie. https://apnatvar.github.io/apnatvar.github.io/ is still under development but I would appreciate any feedback. 
 
 A lot of the code uploaded on this git would code I have written for various modules in Computer Engineering. Other than that I took some external courses and any code I wrote in the fulfillment of the requirements of the course is presented here. 
 
-### *Some of my favourite projects*
+### *Some of my favourite projects* 
 ##### Cyclistic Data Analysis - https://github.com/apnatvar/analytics/tree/main/Cyclistic
 ##### S&P500 Stock Dashboard - https://github.com/apnatvar/analytics/tree/main/Shiny_Stock
 ##### Morse Code Game - https://github.com/apnatvar/Microprocessor-Raspberry-Pi-Pico/tree/main/Pi%20Pico%20Coding/assign02
