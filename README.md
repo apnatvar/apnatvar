@@ -11,8 +11,8 @@ There’s also **https://samples-ap.vercel.app**, an UI collection built using s
 
 ### ✍️ Writing & Content
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@apnatvar)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/apnatvar)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nattupi)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nattupi)
 
 I write about **technology, simpl, and everyday observations** on Medium.  
 I share visual snippets, experiments, and creative work on Instagram.
