@@ -23,7 +23,8 @@ I share visual snippets, experiments, and creative work on Instagram.
 
 - **LinkedIn:** https://www.linkedin.com/in/apnatva-singh-rawat  
 - **Email:** arawat@tcd.ie / apnatvarawat90@gmail.com  
-
+- **CV:** https://github.com/apnatvar/apnatvar/blob/main/ApnatvaCV.pdf
+- 
 Available for **contract, freelance, and collaborative work**, especially around **website design and development**.
 
 ---
