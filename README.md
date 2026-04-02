@@ -3,7 +3,6 @@
 I’m a **2× year old Software Developer, Storyteller, and Designer**.  
 I like building things where logic meets layout and where ideas ship instead of staying in draft.
 
-I built **https://apnatva.vercel.app** because markdown just isn’t as fun.  
 **https://apnatva.vercel.app/visual** , a curated portfolio where I experiment, iterate, and occasionally over-engineer (intentionally).
 There’s also **https://samples-ap.vercel.app**, an UI collection built using shadcn, tailwind, and typescript
 
@@ -24,7 +23,7 @@ I share visual snippets, experiments, and creative work on Instagram.
 - **LinkedIn:** https://www.linkedin.com/in/apnatva-singh-rawat  
 - **Email:** arawat@tcd.ie / apnatvarawat90@gmail.com  
 - **CV:** https://github.com/apnatvar/apnatvar/blob/main/ApnatvaCV.pdf
-- 
+  
 Available for **contract, freelance, and collaborative work**, especially around **website design and development**.
 
 ---
@@ -75,14 +74,15 @@ Feel free to explore.
 ### 🛠️ Tech Stack
 
 **Languages**
-- Python  
-- SQL  
 - TypeScript  
-
+- Python  
+- SQL
+  
 **Frontend**
-- Next.js 
+- Next.js/React 
 - Tailwind CSS  
-- shadcn/ui  
+- shadcn/ui
+- GSAP
 
 **Animation & Motion**
 - GSAP  
