@@ -3,9 +3,10 @@
 I’m a **2× year old Software Developer, Storyteller, and Designer**.  
 I like building things where logic meets layout and where ideas ship instead of staying in draft.
 
-**https://apnatva.vercel.app/visual** , a curated portfolio where I experiment, iterate, and occasionally over-engineer (intentionally).
-There’s also **https://samples-ap.vercel.app**, an UI collection built using shadcn, tailwind, and typescript
-
+**https://apnatva.dev** , a curated portfolio where I experiment, iterate, and occasionally over-engineer (intentionally).
+There’s also **https://samples.apnatva.dev**, an UI collection built using shadcn, tailwind, and typescript
+Building **https://brownsmithdynamics.com** 
+Check out a full list of links here **https://apnatva.dev/links**
 ---
 
 ### ✍️ Writing & Content
@@ -13,7 +14,7 @@ There’s also **https://samples-ap.vercel.app**, an UI collection built using s
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nattupi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nattupi)
 
-I write about **technology and everyday thoughts and observations** on Medium.  
+I write about **technology, personal philosophy, and observations** on Medium.  
 I share visual snippets, experiments, and creative work on Instagram.
 
 ---
@@ -21,7 +22,7 @@ I share visual snippets, experiments, and creative work on Instagram.
 ### 📫 Get in Touch
 
 - **LinkedIn:** https://www.linkedin.com/in/apnatva-singh-rawat  
-- **Email:** arawat@tcd.ie / apnatvarawat90@gmail.com  
+- **Email:** rawat@apnatva.dev / arawat@tcd.ie / apnatvarawat90@gmail.com  
 - **CV:** https://github.com/apnatvar/apnatvar/blob/main/ApnatvaCV.pdf
   
 Available for **contract, freelance, and collaborative work**, especially around **website design and development**.
