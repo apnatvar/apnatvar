@@ -85,6 +85,12 @@ Feel free to explore.
 - shadcn/ui
 - GSAP
 
+**Backend**
+- Python 
+- SQL  
+- Hono
+- Flask
+
 **Animation & Motion**
 - GSAP  
 - Motion.dev  
